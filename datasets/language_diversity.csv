@@ -1,0 +1,445 @@
+"Continent","Country","Measurement","Value"
+"Africa","Algeria","Langs",18
+"Africa","Angola","Langs",42
+"Oceania","Australia","Langs",234
+"Asia","Bangladesh","Langs",37
+"Africa","Benin","Langs",52
+"Americas","Bolivia","Langs",38
+"Africa","Botswana","Langs",27
+"Americas","Brazil","Langs",209
+"Africa","Burkina Faso","Langs",75
+"Africa","CAR","Langs",94
+"Asia","Cambodia","Langs",18
+"Africa","Cameroon","Langs",275
+"Africa","Chad","Langs",126
+"Americas","Colombia","Langs",79
+"Africa","Congo","Langs",60
+"Americas","Costa Rica","Langs",10
+"Africa","Cote d'Ivoire","Langs",75
+"Americas","Cuba","Langs",1
+"Americas","Ecuador","Langs",22
+"Africa","Egypt","Langs",11
+"Africa","Ethiopia","Langs",112
+"Americas","French Guiana","Langs",11
+"Africa","Gabon","Langs",40
+"Africa","Ghana","Langs",73
+"Americas","Guatemala","Langs",52
+"Africa","Guinea","Langs",29
+"Americas","Guyana","Langs",14
+"Americas","Honduras","Langs",9
+"Asia","India","Langs",405
+"Asia","Indonesia","Langs",701
+"Africa","Kenya","Langs",58
+"Asia","Laos","Langs",93
+"Africa","Liberia","Langs",34
+"Africa","Libya","Langs",13
+"Africa","Madagascar","Langs",4
+"Africa","Malawi","Langs",14
+"Asia","Malaysia","Langs",140
+"Africa","Mali","Langs",31
+"Africa","Mauritania","Langs",8
+"Americas","Mexico","Langs",243
+"Africa","Mozambique","Langs",36
+"Asia","Myanmar","Langs",105
+"Africa","Namibia","Langs",21
+"Asia","Nepal","Langs",102
+"Americas","Nicaragua","Langs",7
+"Africa","Niger","Langs",21
+"Africa","Nigeria","Langs",427
+"Asia","Oman","Langs",8
+"Americas","Panama","Langs",13
+"Oceania","Papua New Guinea","Langs",862
+"Americas","Paraguay","Langs",21
+"Americas","Peru","Langs",91
+"Asia","Phillipines","Langs",168
+"Asia","Saudi Arabia","Langs",8
+"Africa","Senegal","Langs",42
+"Africa","Sierra Leone","Langs",23
+"Oceania","Solomon Islands","Langs",66
+"Africa","Somalia","Langs",14
+"Africa","South Africa","Langs",32
+"Asia","Sri Lanka","Langs",7
+"Africa","Sudan","Langs",134
+"Americas","Suriname","Langs",17
+"Africa","Tanzania","Langs",131
+"Asia","Thailand","Langs",82
+"Africa","Togo","Langs",43
+"Asia","UAE","Langs",9
+"Africa","Uganda","Langs",43
+"Oceania","Vanuatu","Langs",111
+"Americas","Venezuela","Langs",40
+"Asia","Vietnam","Langs",88
+"Asia","Yemen","Langs",6
+"Africa","Zaire","Langs",219
+"Africa","Zambia","Langs",38
+"Africa","Zimbabwe","Langs",18
+"Africa","Algeria","Area",2381741
+"Africa","Angola","Area",1246700
+"Oceania","Australia","Area",7713364
+"Asia","Bangladesh","Area",143998
+"Africa","Benin","Area",112622
+"Americas","Bolivia","Area",1098581
+"Africa","Botswana","Area",581730
+"Americas","Brazil","Area",8511965
+"Africa","Burkina Faso","Area",274000
+"Africa","CAR","Area",622984
+"Asia","Cambodia","Area",181035
+"Africa","Cameroon","Area",475422
+"Africa","Chad","Area",1284000
+"Americas","Colombia","Area",1138914
+"Africa","Congo","Area",342000
+"Americas","Costa Rica","Area",51100
+"Africa","Cote d'Ivoire","Area",322463
+"Americas","Cuba","Area",110861
+"Americas","Ecuador","Area",283561
+"Africa","Egypt","Area",1001449
+"Africa","Ethiopia","Area",1221900
+"Americas","French Guiana","Area",90000
+"Africa","Gabon","Area",267667
+"Africa","Ghana","Area",238553
+"Americas","Guatemala","Area",108889
+"Africa","Guinea","Area",245857
+"Americas","Guyana","Area",214969
+"Americas","Honduras","Area",112088
+"Asia","India","Area",3287590
+"Asia","Indonesia","Area",1904569
+"Africa","Kenya","Area",580367
+"Asia","Laos","Area",236800
+"Africa","Liberia","Area",111369
+"Africa","Libya","Area",1759540
+"Africa","Madagascar","Area",587041
+"Africa","Malawi","Area",118484
+"Asia","Malaysia","Area",329749
+"Africa","Mali","Area",1240192
+"Africa","Mauritania","Area",1025520
+"Americas","Mexico","Area",1958201
+"Africa","Mozambique","Area",801590
+"Asia","Myanmar","Area",676578
+"Africa","Namibia","Area",824292
+"Asia","Nepal","Area",140797
+"Americas","Nicaragua","Area",130000
+"Africa","Niger","Area",1267000
+"Africa","Nigeria","Area",923768
+"Asia","Oman","Area",212457
+"Americas","Panama","Area",75517
+"Oceania","Papua New Guinea","Area",462840
+"Americas","Paraguay","Area",406752
+"Americas","Peru","Area",1285216
+"Asia","Phillipines","Area",3e+05
+"Asia","Saudi Arabia","Area",2149690
+"Africa","Senegal","Area",196722
+"Africa","Sierra Leone","Area",71740
+"Oceania","Solomon Islands","Area",28896
+"Africa","Somalia","Area",637657
+"Africa","South Africa","Area",1221037
+"Asia","Sri Lanka","Area",65610
+"Africa","Sudan","Area",2505813
+"Americas","Suriname","Area",163265
+"Africa","Tanzania","Area",945087
+"Asia","Thailand","Area",513115
+"Africa","Togo","Area",56785
+"Asia","UAE","Area",83600
+"Africa","Uganda","Area",235880
+"Oceania","Vanuatu","Area",12189
+"Americas","Venezuela","Area",912050
+"Asia","Vietnam","Area",331689
+"Asia","Yemen","Area",527968
+"Africa","Zaire","Area",2344858
+"Africa","Zambia","Area",752618
+"Africa","Zimbabwe","Area",390759
+"Africa","Algeria","Population",25660
+"Africa","Angola","Population",10303
+"Oceania","Australia","Population",17336
+"Asia","Bangladesh","Population",118745
+"Africa","Benin","Population",4889
+"Americas","Bolivia","Population",7612
+"Africa","Botswana","Population",1348
+"Americas","Brazil","Population",153322
+"Africa","Burkina Faso","Population",9242
+"Africa","CAR","Population",3127
+"Asia","Cambodia","Population",8442
+"Africa","Cameroon","Population",12239
+"Africa","Chad","Population",5819
+"Americas","Colombia","Population",33613
+"Africa","Congo","Population",2346
+"Americas","Costa Rica","Population",3064
+"Africa","Cote d'Ivoire","Population",12464
+"Americas","Cuba","Population",10736
+"Americas","Ecuador","Population",10851
+"Africa","Egypt","Population",54688
+"Africa","Ethiopia","Population",53383
+"Americas","French Guiana","Population",102
+"Africa","Gabon","Population",1212
+"Africa","Ghana","Population",15509
+"Americas","Guatemala","Population",9467
+"Africa","Guinea","Population",5931
+"Americas","Guyana","Population",800
+"Americas","Honduras","Population",5265
+"Asia","India","Population",849638
+"Asia","Indonesia","Population",187765
+"Africa","Kenya","Population",25905
+"Asia","Laos","Population",4262
+"Africa","Liberia","Population",2705
+"Africa","Libya","Population",4712
+"Africa","Madagascar","Population",11493
+"Africa","Malawi","Population",8556
+"Asia","Malaysia","Population",18333
+"Africa","Mali","Population",9507
+"Africa","Mauritania","Population",2036
+"Americas","Mexico","Population",87836
+"Africa","Mozambique","Population",16084
+"Asia","Myanmar","Population",42561
+"Africa","Namibia","Population",1837
+"Asia","Nepal","Population",19605
+"Americas","Nicaragua","Population",3999
+"Africa","Niger","Population",7984
+"Africa","Nigeria","Population",112163
+"Asia","Oman","Population",1559
+"Americas","Panama","Population",2466
+"Oceania","Papua New Guinea","Population",3772
+"Americas","Paraguay","Population",4397
+"Americas","Peru","Population",21998
+"Asia","Phillipines","Population",62868
+"Asia","Saudi Arabia","Population",14691
+"Africa","Senegal","Population",7533
+"Africa","Sierra Leone","Population",4260
+"Oceania","Solomon Islands","Population",3301
+"Africa","Somalia","Population",7691
+"Africa","South Africa","Population",36070
+"Asia","Sri Lanka","Population",17240
+"Africa","Sudan","Population",25941
+"Americas","Suriname","Population",429
+"Africa","Tanzania","Population",28359
+"Asia","Thailand","Population",56293
+"Africa","Togo","Population",3643
+"Asia","UAE","Population",1629
+"Africa","Uganda","Population",19517
+"Oceania","Vanuatu","Population",163
+"Americas","Venezuela","Population",20226
+"Asia","Vietnam","Population",68183
+"Asia","Yemen","Population",12302
+"Africa","Zaire","Population",36672
+"Africa","Zambia","Population",8780
+"Africa","Zimbabwe","Population",10019
+"Africa","Algeria","Stations",102
+"Africa","Angola","Stations",50
+"Oceania","Australia","Stations",134
+"Asia","Bangladesh","Stations",20
+"Africa","Benin","Stations",7
+"Americas","Bolivia","Stations",48
+"Africa","Botswana","Stations",10
+"Americas","Brazil","Stations",245
+"Africa","Burkina Faso","Stations",6
+"Africa","CAR","Stations",13
+"Asia","Cambodia","Stations",9
+"Africa","Cameroon","Stations",35
+"Africa","Chad","Stations",11
+"Americas","Colombia","Stations",35
+"Africa","Congo","Stations",10
+"Americas","Costa Rica","Stations",38
+"Africa","Cote d'Ivoire","Stations",9
+"Americas","Cuba","Stations",13
+"Americas","Ecuador","Stations",44
+"Africa","Egypt","Stations",50
+"Africa","Ethiopia","Stations",36
+"Americas","French Guiana","Stations",5
+"Africa","Gabon","Stations",14
+"Africa","Ghana","Stations",28
+"Americas","Guatemala","Stations",59
+"Africa","Guinea","Stations",8
+"Americas","Guyana","Stations",5
+"Americas","Honduras","Stations",13
+"Asia","India","Stations",218
+"Asia","Indonesia","Stations",58
+"Africa","Kenya","Stations",34
+"Asia","Laos","Stations",7
+"Africa","Liberia","Stations",21
+"Africa","Libya","Stations",54
+"Africa","Madagascar","Stations",81
+"Africa","Malawi","Stations",20
+"Asia","Malaysia","Stations",63
+"Africa","Mali","Stations",17
+"Africa","Mauritania","Stations",8
+"Americas","Mexico","Stations",272
+"Africa","Mozambique","Stations",90
+"Asia","Myanmar","Stations",30
+"Africa","Namibia","Stations",6
+"Asia","Nepal","Stations",16
+"Americas","Nicaragua","Stations",8
+"Africa","Niger","Stations",10
+"Africa","Nigeria","Stations",24
+"Asia","Oman","Stations",2
+"Americas","Panama","Stations",5
+"Oceania","Papua New Guinea","Stations",8
+"Americas","Paraguay","Stations",16
+"Americas","Peru","Stations",40
+"Asia","Phillipines","Stations",64
+"Asia","Saudi Arabia","Stations",10
+"Africa","Senegal","Stations",12
+"Africa","Sierra Leone","Stations",23
+"Oceania","Solomon Islands","Stations",1
+"Africa","Somalia","Stations",28
+"Africa","South Africa","Stations",114
+"Asia","Sri Lanka","Stations",17
+"Africa","Sudan","Stations",43
+"Americas","Suriname","Stations",2
+"Africa","Tanzania","Stations",45
+"Asia","Thailand","Stations",54
+"Africa","Togo","Stations",11
+"Asia","UAE","Stations",6
+"Africa","Uganda","Stations",21
+"Oceania","Vanuatu","Stations",4
+"Americas","Venezuela","Stations",44
+"Asia","Vietnam","Stations",40
+"Asia","Yemen","Stations",2
+"Africa","Zaire","Stations",16
+"Africa","Zambia","Stations",30
+"Africa","Zimbabwe","Stations",52
+"Africa","Algeria","MGS",6.6
+"Africa","Angola","MGS",6.22
+"Oceania","Australia","MGS",6
+"Asia","Bangladesh","MGS",7.4
+"Africa","Benin","MGS",7.14
+"Americas","Bolivia","MGS",6.92
+"Africa","Botswana","MGS",4.6
+"Americas","Brazil","MGS",9.71
+"Africa","Burkina Faso","MGS",5.17
+"Africa","CAR","MGS",8.08
+"Asia","Cambodia","MGS",8.44
+"Africa","Cameroon","MGS",9.17
+"Africa","Chad","MGS",4
+"Americas","Colombia","MGS",11.37
+"Africa","Congo","MGS",9.6
+"Americas","Costa Rica","MGS",8.92
+"Africa","Cote d'Ivoire","MGS",8.67
+"Americas","Cuba","MGS",7.46
+"Americas","Ecuador","MGS",8.14
+"Africa","Egypt","MGS",0.89
+"Africa","Ethiopia","MGS",7.28
+"Americas","French Guiana","MGS",10.4
+"Africa","Gabon","MGS",8.79
+"Africa","Ghana","MGS",8.79
+"Americas","Guatemala","MGS",9.31
+"Africa","Guinea","MGS",7.38
+"Americas","Guyana","MGS",12
+"Americas","Honduras","MGS",8.54
+"Asia","India","MGS",5.32
+"Asia","Indonesia","MGS",10.67
+"Africa","Kenya","MGS",7.26
+"Asia","Laos","MGS",7.14
+"Africa","Liberia","MGS",10.62
+"Africa","Libya","MGS",2.43
+"Africa","Madagascar","MGS",7.33
+"Africa","Malawi","MGS",5.8
+"Asia","Malaysia","MGS",11.92
+"Africa","Mali","MGS",3.59
+"Africa","Mauritania","MGS",0.75
+"Americas","Mexico","MGS",5.84
+"Africa","Mozambique","MGS",6.07
+"Asia","Myanmar","MGS",6.93
+"Africa","Namibia","MGS",2.5
+"Asia","Nepal","MGS",6.39
+"Americas","Nicaragua","MGS",8.13
+"Africa","Niger","MGS",2.4
+"Africa","Nigeria","MGS",7
+"Asia","Oman","MGS",0
+"Americas","Panama","MGS",9.2
+"Oceania","Papua New Guinea","MGS",10.88
+"Americas","Paraguay","MGS",10.25
+"Americas","Peru","MGS",2.65
+"Asia","Phillipines","MGS",10.34
+"Asia","Saudi Arabia","MGS",0.4
+"Africa","Senegal","MGS",3.58
+"Africa","Sierra Leone","MGS",8.22
+"Oceania","Solomon Islands","MGS",12
+"Africa","Somalia","MGS",3
+"Africa","South Africa","MGS",6.05
+"Asia","Sri Lanka","MGS",9.59
+"Africa","Sudan","MGS",4.02
+"Americas","Suriname","MGS",12
+"Africa","Tanzania","MGS",7.02
+"Asia","Thailand","MGS",8.04
+"Africa","Togo","MGS",7.91
+"Asia","UAE","MGS",0.83
+"Africa","Uganda","MGS",10.14
+"Oceania","Vanuatu","MGS",12
+"Americas","Venezuela","MGS",7.98
+"Asia","Vietnam","MGS",8.8
+"Asia","Yemen","MGS",0
+"Africa","Zaire","MGS",9.44
+"Africa","Zambia","MGS",5.43
+"Africa","Zimbabwe","MGS",5.29
+"Africa","Algeria","Std",2.29
+"Africa","Angola","Std",1.87
+"Oceania","Australia","Std",4.17
+"Asia","Bangladesh","Std",0.73
+"Africa","Benin","Std",0.99
+"Americas","Bolivia","Std",2.5
+"Africa","Botswana","Std",1.69
+"Americas","Brazil","Std",5.87
+"Africa","Burkina Faso","Std",1.07
+"Africa","CAR","Std",1.21
+"Asia","Cambodia","Std",0.5
+"Africa","Cameroon","Std",1.75
+"Africa","Chad","Std",1.81
+"Americas","Colombia","Std",1.37
+"Africa","Congo","Std",1.69
+"Americas","Costa Rica","Std",1.78
+"Africa","Cote d'Ivoire","Std",1.25
+"Americas","Cuba","Std",1.55
+"Americas","Ecuador","Std",3.47
+"Africa","Egypt","Std",0.89
+"Africa","Ethiopia","Std",3.1
+"Americas","French Guiana","Std",0.8
+"Africa","Gabon","Std",0.77
+"Africa","Ghana","Std",1.68
+"Americas","Guatemala","Std",2.23
+"Africa","Guinea","Std",1.22
+"Americas","Guyana","Std",0
+"Americas","Honduras","Std",2.53
+"Asia","India","Std",1.92
+"Asia","Indonesia","Std",1.82
+"Africa","Kenya","Std",3.61
+"Asia","Laos","Std",0.35
+"Africa","Liberia","Std",0.84
+"Africa","Libya","Std",1.6
+"Africa","Madagascar","Std",2.96
+"Africa","Malawi","Std",1.5
+"Asia","Malaysia","Std",0.37
+"Africa","Mali","Std",1.97
+"Africa","Mauritania","Std",0.83
+"Americas","Mexico","Std",2.69
+"Africa","Mozambique","Std",1.39
+"Asia","Myanmar","Std",0.81
+"Africa","Namibia","Std",1.89
+"Asia","Nepal","Std",1.98
+"Americas","Nicaragua","Std",2.15
+"Africa","Niger","Std",1.28
+"Africa","Nigeria","Std",2.16
+"Asia","Oman","Std",0
+"Americas","Panama","Std",0.75
+"Oceania","Papua New Guinea","Std",1.96
+"Americas","Paraguay","Std",2.51
+"Americas","Peru","Std",4.22
+"Asia","Phillipines","Std",1.92
+"Asia","Saudi Arabia","Std",0.92
+"Africa","Senegal","Std",1.11
+"Africa","Sierra Leone","Std",0.59
+"Oceania","Solomon Islands","Std",0
+"Africa","Somalia","Std",1.69
+"Africa","South Africa","Std",3.5
+"Asia","Sri Lanka","Std",2.59
+"Africa","Sudan","Std",2.82
+"Americas","Suriname","Std",0
+"Africa","Tanzania","Std",1.9
+"Asia","Thailand","Std",1.57
+"Africa","Togo","Std",1.78
+"Asia","UAE","Std",0.69
+"Africa","Uganda","Std",1.17
+"Oceania","Vanuatu","Std",0
+"Americas","Venezuela","Std",2.73
+"Asia","Vietnam","Std",1.59
+"Asia","Yemen","Std",0
+"Africa","Zaire","Std",1.9
+"Africa","Zambia","Std",0.67
+"Africa","Zimbabwe","Std",1.43
