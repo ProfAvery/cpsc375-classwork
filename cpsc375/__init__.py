@@ -13,6 +13,7 @@ import io
 import sys
 import subprocess
 import importlib
+import importlib.util
 import pprint
 import re
 
@@ -36,6 +37,9 @@ from sklearn.linear_model import LinearRegression
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import MinMaxScaler
 from wordcloud import WordCloud
+
+if importlib.util.find_spec("cairosvg") is None:
+    subprocess.check_call([sys.executable, "-m", "pip", "install", "cairosvg"])
 
 try:
     from mockr import run_stream_job, run_pandas_job
