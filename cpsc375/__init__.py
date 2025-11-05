@@ -31,11 +31,13 @@ import urllib
 
 from scipy.spatial import distance
 from sklearn.cluster import KMeans
+from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
 from sklearn.neighbors import KNeighborsClassifier
-from sklearn.linear_model import LinearRegression
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import MinMaxScaler
+from statsmodels.graphics.tsaplots import plot_acf
+from statsmodels.tsa.seasonal import seasonal_decompose
 from wordcloud import WordCloud
 
 if importlib.util.find_spec("cairosvg") is None:
@@ -123,10 +125,12 @@ __all__ = (
         "np",
         "pd",
         "Pipeline",
+        "plot_acf",
         "plt",
         "re",
         "run_pandas_job",
         "run_stream_job",
+        "seasonal_decompose",
         "sm",
         "sns",
         "train_test_split",
