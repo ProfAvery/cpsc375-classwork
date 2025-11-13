@@ -29,6 +29,7 @@ import seaborn as sns
 import statsmodels.api as sm
 import urllib
 
+from nltk.tokenize import TweetTokenizer
 from scipy.spatial import distance
 from sklearn.cluster import KMeans
 from sklearn.linear_model import LinearRegression
@@ -78,6 +79,12 @@ LetsPlot.setup_html()
 # Patch for use with colab2pdf
 lets_plot.plot.core.PlotSpec._repr_svg_ = _repr_svg_
 
+
+# R defines geom_col() as a shortcut for geom_bar(stat="identity")
+def geom_col(**kwargs):
+    return geom_bar(stat="identity", **kwargs)
+
+
 billboard_dataset = sm.datasets.get_rdataset("billboard", "tidyr")
 billboard = billboard_dataset.data
 
@@ -117,6 +124,7 @@ __all__ = (
     [
         "distance",
         "fetch_ucirepo",
+        "geom_col",
         "KMeans",
         "KNeighborsClassifier",
         "LinearRegression",
@@ -134,6 +142,7 @@ __all__ = (
         "sm",
         "sns",
         "train_test_split",
+        "TweetTokenizer",
         "urllib",
         "WordCloud",
     ]
