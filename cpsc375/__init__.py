@@ -98,7 +98,7 @@ mpg_dataset = sm.datasets.get_rdataset("mpg", "ggplot2")
 mpg = mpg_dataset.data
 
 nycflights13_dataset = sm.datasets.get_rdataset("flights", "nycflights13")
-nycflights13 = nycflights13_dataset.data
+flights = nycflights13_dataset.data
 
 auto_mpg = fetch_ucirepo(id=9)
 auto_mpg_dataset = type(
@@ -115,7 +115,7 @@ datasets = [
     "mpg_dataset",
     "mpg",
     "nycflights13_dataset",
-    "nycflights13",
+    "flights",
     "auto_mpg",
     "auto_mpg_dataset",
 ]
