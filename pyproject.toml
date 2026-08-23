@@ -1,0 +1,14 @@
+[project]
+name = "cpsc375-classwork"
+version = "0.1.0"
+description = "CPSC 375 in-class exercises"
+authors = [
+    { name = "Kenytt Avery", email = "kavery@fullerton.edu" }
+]
+requires-python = ">=3.10"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "nbstripout>=0.9.1",
+]
